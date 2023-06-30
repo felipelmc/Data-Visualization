@@ -1,0 +1,6 @@
+[submodule "Formula1-Viz"]
+	path = Formula1-Viz
+	url = https://github.com/felipelmc/Formula1-Viz.git
+[submodule "Nascidos-Vivos-Viz"]
+	path = Nascidos-Vivos-Viz
+	url = https://github.com/felipelmc/Nascidos-Vivos-Viz.git

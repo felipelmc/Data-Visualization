@@ -1,0 +1,133 @@
+Regiao,Mes,Total Crimes,Latitude,Longitude
+Araçatuba,Jan,158.0,-21.207198,-50.449515
+Araçatuba,Fev,139.0,-21.207198,-50.449515
+Araçatuba,Mar,167.0,-21.207198,-50.449515
+Araçatuba,Abr,151.0,-21.207198,-50.449515
+Araçatuba,Mai,116.0,-21.207198,-50.449515
+Araçatuba,Jun,114.0,-21.207198,-50.449515
+Araçatuba,Jul,124.0,-21.207198,-50.449515
+Araçatuba,Ago,122.0,-21.207198,-50.449515
+Araçatuba,Set,119.0,-21.207198,-50.449515
+Araçatuba,Out,162.0,-21.207198,-50.449515
+Araçatuba,Nov,137.0,-21.207198,-50.449515
+Araçatuba,Dez,170.0,-21.207198,-50.449515
+Bauru,Jan,225.0,-22.317337,-49.071868
+Bauru,Fev,221.0,-22.317337,-49.071868
+Bauru,Mar,240.0,-22.317337,-49.071868
+Bauru,Abr,217.0,-22.317337,-49.071868
+Bauru,Mai,186.0,-22.317337,-49.071868
+Bauru,Jun,191.0,-22.317337,-49.071868
+Bauru,Jul,205.0,-22.317337,-49.071868
+Bauru,Ago,193.0,-22.317337,-49.071868
+Bauru,Set,199.0,-22.317337,-49.071868
+Bauru,Out,239.0,-22.317337,-49.071868
+Bauru,Nov,188.0,-22.317337,-49.071868
+Bauru,Dez,256.0,-22.317337,-49.071868
+Campinas,Jan,690.0,-22.907104,-47.06324
+Campinas,Fev,657.0,-22.907104,-47.06324
+Campinas,Mar,755.0,-22.907104,-47.06324
+Campinas,Abr,708.0,-22.907104,-47.06324
+Campinas,Mai,716.0,-22.907104,-47.06324
+Campinas,Jun,633.0,-22.907104,-47.06324
+Campinas,Jul,581.0,-22.907104,-47.06324
+Campinas,Ago,639.0,-22.907104,-47.06324
+Campinas,Set,632.0,-22.907104,-47.06324
+Campinas,Out,713.0,-22.907104,-47.06324
+Campinas,Nov,673.0,-22.907104,-47.06324
+Campinas,Dez,735.0,-22.907104,-47.06324
+Capital,Jan,3363.0,-23.533773,-46.62529
+Capital,Fev,3181.0,-23.533773,-46.62529
+Capital,Mar,3338.0,-23.533773,-46.62529
+Capital,Abr,3229.0,-23.533773,-46.62529
+Capital,Mai,3229.0,-23.533773,-46.62529
+Capital,Jun,2873.0,-23.533773,-46.62529
+Capital,Jul,2827.0,-23.533773,-46.62529
+Capital,Ago,2821.0,-23.533773,-46.62529
+Capital,Set,2783.0,-23.533773,-46.62529
+Capital,Out,2907.0,-23.533773,-46.62529
+Capital,Nov,2932.0,-23.533773,-46.62529
+Capital,Dez,3114.0,-23.533773,-46.62529
+Piracicaba,Jan,573.0,-22.722184,-47.645869
+Piracicaba,Fev,499.0,-22.722184,-47.645869
+Piracicaba,Mar,597.0,-22.722184,-47.645869
+Piracicaba,Abr,565.0,-22.722184,-47.645869
+Piracicaba,Mai,580.0,-22.722184,-47.645869
+Piracicaba,Jun,509.0,-22.722184,-47.645869
+Piracicaba,Jul,475.0,-22.722184,-47.645869
+Piracicaba,Ago,521.0,-22.722184,-47.645869
+Piracicaba,Set,500.0,-22.722184,-47.645869
+Piracicaba,Out,548.0,-22.722184,-47.645869
+Piracicaba,Nov,506.0,-22.722184,-47.645869
+Piracicaba,Dez,589.0,-22.722184,-47.645869
+Presidente Prudente,Jan,134.0,-22.117966,-51.395276
+Presidente Prudente,Fev,140.0,-22.117966,-51.395276
+Presidente Prudente,Mar,144.0,-22.117966,-51.395276
+Presidente Prudente,Abr,150.0,-22.117966,-51.395276
+Presidente Prudente,Mai,150.0,-22.117966,-51.395276
+Presidente Prudente,Jun,111.0,-22.117966,-51.395276
+Presidente Prudente,Jul,112.0,-22.117966,-51.395276
+Presidente Prudente,Ago,96.0,-22.117966,-51.395276
+Presidente Prudente,Set,108.0,-22.117966,-51.395276
+Presidente Prudente,Out,152.0,-22.117966,-51.395276
+Presidente Prudente,Nov,142.0,-22.117966,-51.395276
+Presidente Prudente,Dez,136.0,-22.117966,-51.395276
+Ribeirão Preto,Jan,503.0,-21.1775,-47.81028
+Ribeirão Preto,Fev,494.0,-21.1775,-47.81028
+Ribeirão Preto,Mar,492.0,-21.1775,-47.81028
+Ribeirão Preto,Abr,495.0,-21.1775,-47.81028
+Ribeirão Preto,Mai,478.0,-21.1775,-47.81028
+Ribeirão Preto,Jun,419.0,-21.1775,-47.81028
+Ribeirão Preto,Jul,421.0,-21.1775,-47.81028
+Ribeirão Preto,Ago,447.0,-21.1775,-47.81028
+Ribeirão Preto,Set,443.0,-21.1775,-47.81028
+Ribeirão Preto,Out,521.0,-21.1775,-47.81028
+Ribeirão Preto,Nov,419.0,-21.1775,-47.81028
+Ribeirão Preto,Dez,511.0,-21.1775,-47.81028
+Santos,Jan,599.0,-23.944841,-46.330376
+Santos,Fev,521.0,-23.944841,-46.330376
+Santos,Mar,583.0,-23.944841,-46.330376
+Santos,Abr,543.0,-23.944841,-46.330376
+Santos,Mai,556.0,-23.944841,-46.330376
+Santos,Jun,438.0,-23.944841,-46.330376
+Santos,Jul,463.0,-23.944841,-46.330376
+Santos,Ago,448.0,-23.944841,-46.330376
+Santos,Set,467.0,-23.944841,-46.330376
+Santos,Out,476.0,-23.944841,-46.330376
+Santos,Nov,510.0,-23.944841,-46.330376
+Santos,Dez,541.0,-23.944841,-46.330376
+Sorocaba,Jan,504.0,-23.50167,-47.45806
+Sorocaba,Fev,489.0,-23.50167,-47.45806
+Sorocaba,Mar,532.0,-23.50167,-47.45806
+Sorocaba,Abr,510.0,-23.50167,-47.45806
+Sorocaba,Mai,502.0,-23.50167,-47.45806
+Sorocaba,Jun,425.0,-23.50167,-47.45806
+Sorocaba,Jul,438.0,-23.50167,-47.45806
+Sorocaba,Ago,459.0,-23.50167,-47.45806
+Sorocaba,Set,457.0,-23.50167,-47.45806
+Sorocaba,Out,444.0,-23.50167,-47.45806
+Sorocaba,Nov,435.0,-23.50167,-47.45806
+Sorocaba,Dez,525.0,-23.50167,-47.45806
+São José do Rio Preto,Jan,161.0,-20.809344,-49.379341
+São José do Rio Preto,Fev,154.0,-20.809344,-49.379341
+São José do Rio Preto,Mar,168.0,-20.809344,-49.379341
+São José do Rio Preto,Abr,161.0,-20.809344,-49.379341
+São José do Rio Preto,Mai,143.0,-20.809344,-49.379341
+São José do Rio Preto,Jun,137.0,-20.809344,-49.379341
+São José do Rio Preto,Jul,124.0,-20.809344,-49.379341
+São José do Rio Preto,Ago,145.0,-20.809344,-49.379341
+São José do Rio Preto,Set,149.0,-20.809344,-49.379341
+São José do Rio Preto,Out,182.0,-20.809344,-49.379341
+São José do Rio Preto,Nov,156.0,-20.809344,-49.379341
+São José do Rio Preto,Dez,177.0,-20.809344,-49.379341
+São José dos Campos,Jan,685.0,-23.17944,-45.88694
+São José dos Campos,Fev,622.0,-23.17944,-45.88694
+São José dos Campos,Mar,711.0,-23.17944,-45.88694
+São José dos Campos,Abr,751.0,-23.17944,-45.88694
+São José dos Campos,Mai,633.0,-23.17944,-45.88694
+São José dos Campos,Jun,590.0,-23.17944,-45.88694
+São José dos Campos,Jul,545.0,-23.17944,-45.88694
+São José dos Campos,Ago,659.0,-23.17944,-45.88694
+São José dos Campos,Set,570.0,-23.17944,-45.88694
+São José dos Campos,Out,604.0,-23.17944,-45.88694
+São José dos Campos,Nov,599.0,-23.17944,-45.88694
+São José dos Campos,Dez,672.0,-23.17944,-45.88694
