@@ -13,7 +13,7 @@ Repository where I keep all the assignments and projects developed in the scope 
 
 Project co-developed with [Ana Carolina Erthal](https://github.com/anacarolerthal) and [Guilherme de Melo](https://github.com/guilherme-melo).
 
-See the project [here]().
+See the project [here](https://github.com/felipelmc/Nascidos-Vivos-Viz/tree/main).
 
 ### Project 2: Visual F1
 
